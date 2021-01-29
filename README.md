@@ -1,5 +1,5 @@
 # Leaflet StoryMap de la Ruta del Barroco Andino - Cusco
-Mapa elaborado con la plantilla de Leaflet Storymaps with Google Sheets de Handsondataviz
+Mapa elaborado con la plantilla de Leaflet Storymaps with Google Sheets de Handsondataviz  
 **Turismo**: Mapa con los atractivos de la Ruta del Barroco Andino
 
 ## [Live Demo] 
