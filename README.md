@@ -1,13 +1,9 @@
-# Leaflet Storymaps with Google Sheets
-Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
-Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
+# Leaflet StoryMap de la Ruta del Barroco Andino - Cusco
+Mapa elaborado con la plantilla de Leaflet Storymaps with Google Sheets de Handsondataviz
+**Turismo**: Mapa con los atractivos de la Ruta del Barroco Andino
 
-<p align="center">
-  <img src="./leaflet-storymaps-demo.gif" title="Storymaps demo" />
-</p>
-
-## [Live Demo](https://handsondataviz.github.io/leaflet-storymaps-with-google-sheets/)
-- The map is hosted by GitHub and can be found at https://handsondataviz.github.io/leaflet-storymaps-with-google-sheets/
+## [Live Demo] 
+- The map is hosted by GitHub and can be found at https://yilaa.github.io/RBA-leaflet-storymap/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1wxOKHySm-woGl1k1_84StUeMfEo1IRg_TtWdRdcqpGo/edit#gid=0
 
 ## Create Your Own
